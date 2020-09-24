@@ -26,7 +26,9 @@ perl lolc.pl helloworld.lol | perl lol.pl
 
 `lol.pl` reads bytecode from STDIN and outputs to STDOUT.  You can also specify a `.lolz` file on the command line.
 
-# Example
+# Syntax
+
+See the [announcement email](announcement_20080130.txt) I sent out on Jan. 30, 2008 for a description of the language.
 
 A picture is worth a thousand words.  Here's a recursive version of Fibonacci:
 
