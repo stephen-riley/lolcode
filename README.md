@@ -7,7 +7,7 @@ A [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE) compiler I wrote back in 2008
 
 You'll need a standard Perl, probably already on your system.  You'll also need to install the `Parse::RecDescent` perl module from CPAN:
 
-```
+```bash
 cpan install Parse::RecDescent
 ```
 
