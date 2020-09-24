@@ -28,7 +28,7 @@ perl lolc.pl helloworld.lol | perl lol.pl
 
 # Syntax
 
-See the [announcement email](announcement_20080130.txt) I sent out on Jan. 30, 2008 for a description of the language.
+See the [announcement email](announcement_20080130.md) I sent out on Jan. 30, 2008 for a description of the language.
 
 A picture is worth a thousand words.  Here's a recursive version of Fibonacci:
 
